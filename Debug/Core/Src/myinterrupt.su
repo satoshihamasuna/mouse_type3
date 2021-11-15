@@ -1,0 +1,5 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+myinterrupt.c:14:6:interrupt_start	8	static
+myinterrupt.c:18:6:interrupt_main	16	static
+myinterrupt.c:158:6:get_speed	24	static
+myinterrupt.c:264:6:check_error	16	static

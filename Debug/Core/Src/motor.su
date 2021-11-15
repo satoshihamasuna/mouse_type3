@@ -1,0 +1,4 @@
+motor.c:20:6:Motor_Start	8	static
+motor.c:27:6:Motor_Set_Duty_Right	24	static
+motor.c:49:6:Motor_Set_Duty_Left	24	static
+motor.c:71:6:Motor_Stop	8	static

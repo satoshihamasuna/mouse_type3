@@ -1,0 +1,8 @@
+interface.c:12:6:MY_LED	16	static
+interface.c:21:6:check_LED	16	static
+interface.c:32:6:check_LED_toggle	24	static
+interface.c:39:6:read_button	16	static
+interface.c:58:6:print_log	64	static
+interface.c:70:6:print_log2	32	static
+interface.c:77:6:print_irsens_log	48	static
+interface.c:84:6:disp_map	24	static
