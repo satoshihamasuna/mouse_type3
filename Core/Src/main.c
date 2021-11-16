@@ -342,6 +342,7 @@ int main(void)
 	  		   	}
 		  	  break;
 	  	  case ( 0x13 | MODE_ENABLE ):
+
 	  			  	//printf("****************************\n");
 	  	  	  	  	//printf("gyro_roll->%4.2f,gyro_pitch->%4.2f,gyro_yaw->%4.2f\n",gyro_2_theta_roll,gyro_2_theta_pitch,gyro_2_theta_yaw);
 					//printf("q0->%0.4f,q1->%0.4f,q2->%0.4f,q3->%0.4f\n",q0,q1,q2,q3);
